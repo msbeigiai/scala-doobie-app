@@ -1,0 +1,1 @@
+### An application for working with database with Doobie, a pure functional Scala library
